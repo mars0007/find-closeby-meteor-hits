@@ -11,3 +11,10 @@ These require python 3 and math and request package
 or 
 
 `python meteor_CG_version.py`
+
+First, install pipenv, then:
+
+```
+pipenv install
+pipenv run "python meteor.py"
+```
