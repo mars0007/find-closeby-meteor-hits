@@ -8,7 +8,7 @@ These require python 3 and math and request package
 
 `python3 meteor.py`
 
-or 
+or
 
 `python meteor_CG_version.py`
 
